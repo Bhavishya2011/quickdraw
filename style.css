@@ -1,0 +1,22 @@
+body
+{
+background-color:lightsteelblue;
+}
+
+#score
+{
+font-size: 30px;
+margin-left: 20px;
+}
+
+#time
+{
+    font-size: 30px;
+    margin-right: 20px;
+    float: right;
+}
+
+#sketch_name
+{
+ color:crimson;
+}
